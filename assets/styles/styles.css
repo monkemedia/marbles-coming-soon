@@ -47,6 +47,10 @@ address {
   font-style: normal;
 }
 
+p, address {
+  margin-bottom: 10px;
+}
+
 .box {
   border: 1px dashed #666;
   background: transparent;
